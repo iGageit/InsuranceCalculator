@@ -158,7 +158,7 @@ DecimalFormat fmt = new DecimalFormat("$#,##");
 
 
     }//GEN-LAST:event_btnCalculateActionPerformed
-
+// clear all
     private void btnClearAllActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnClearAllActionPerformed
       txtbuildingCost.setText("");
       txtInsuranceAmount.setText("");
